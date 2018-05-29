@@ -1,0 +1,16 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "vitual-dom-build": "npx webpack --config vitual-dom/webpack.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.10.0",
+    "webpack-cli": "^2.1.4"
+  }
+}
